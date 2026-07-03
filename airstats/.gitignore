@@ -1,0 +1,12 @@
+
+target/
+dbt_packages/
+logs/
+dbt_internal_packages/
+node_modules/
+package.json
+package-lock.json
+.user.yml
+.sqlfluff
+.sqlfluffignore
+profiles.yml
